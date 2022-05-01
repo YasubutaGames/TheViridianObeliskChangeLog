@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Minor Patch",
+    "version": "0.108s",
+    "date": "2022/04/28",
+    "content": [
+      "Added graphical detail to the camp.",
+      "Added graphical detail to dungeons.",
+      "New Item, 'Depleted Rune'. When using a 'Rune of Protection', it will remain in your inventory, as a 'Depleted Rune'. Defeating a boss will recharge the rune, allowing it to be used again.",
+      "Fixed a bug where Magic Reflection didn't function properly.",
+      "Fixed a bug where item bonuses (Smite, Poison etc.) would persist after unequipping the item with said bonus."
+    ],
+    "image": ["./108sImg.jpeg"]
+  },
+  {
+    "title": "Minor Patch",
+    "version": "0.104s",
+    "date": "2022/04/23",
+    "content": [
+      "Added more scenery & detail to later dungeons.",
+      "Cooking QoL improvements.",
+      "Minor UI changes."
+    ],
+    "image": []
+  },
+  {
+    "title": "Minor Patch",
+    "version": "0.102s",
+    "date": "2022/04/21",
+    "content": [
+      "Added rarity border to inventory & equipped items.",
+      "Minor UI fixes & optimization.",
+      "Fixed a bug where the Trial Edition save file wouldn't transfer correctly to the Full Version."
+    ],
+    "image": []
+  },
+  {
+    "title": "Minor Patch",
+    "version": "0.93s",
+    "date": "2022/04/17",
+    "content": [
+      "Google Play Instant is now available to supported devices. Press Try Now to instantly jump into the free Trial Edition of The Viridian Obelisk."
+    ],
+    "image": []
+  }
+]
