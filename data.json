@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.110s",
+    "version": "0.111s",
     "date": "May 2, 2022",
     "content": [
       "Fixed a bug where Holy Blade would Absorb more damage than it was supposed to.",
@@ -9,7 +9,7 @@
       "Added a small indicator for when an Absorb effect is active on your character.",
       "Fixed a bug where exiting the game while on the 'You are dead.'-screen caused the player to load in with 0 health."
     ],
-    "image": ["./110sImg.jpeg"]
+    "image": ["./111sImg.jpeg"]
   },
   {
     "title": "Minor Patch",
