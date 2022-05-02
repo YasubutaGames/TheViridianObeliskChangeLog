@@ -4,7 +4,10 @@
     "version": "0.109s",
     "date": "May 2, 2022",
     "content": [
-      "Placeholder"
+      "Fixed a bug where Holy Blade would Absorb more damage than it was supposed to.",
+      "Fixed a bug where Absorb effects wouldn't reset after exiting the dungeons.",
+      "Added a small indicator for when an Absorb effect is active on your character.",
+      "Fixed a bug where exiting the game while on the 'You are dead.'-screen caused the player to load in with 0 health."
     ],
     "image": ["./109sImg.jpeg"]
   },
