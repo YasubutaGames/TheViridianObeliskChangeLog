@@ -2,16 +2,16 @@
    {
     "title": "Minor Patch",
     "version": "0.109s",
-    "date": "2022/05/2",
+    "date": "May 2, 2022",
     "content": [
       "Placeholder"
     ],
-    "image": []
+    "image": ["./109sImg.jpeg"]
   },
   {
     "title": "Minor Patch",
     "version": "0.108s",
-    "date": "2022/04/28",
+    "date": "April 28, 2022",
     "content": [
       "Added graphical detail to the camp.",
       "Added graphical detail to dungeons.",
@@ -24,7 +24,7 @@
   {
     "title": "Minor Patch",
     "version": "0.104s",
-    "date": "2022/04/23",
+    "date": "April 23, 2022",
     "content": [
       "Added more scenery & detail to later dungeons.",
       "Cooking QoL improvements.",
@@ -35,7 +35,7 @@
   {
     "title": "Minor Patch",
     "version": "0.102s",
-    "date": "2022/04/21",
+    "date": "April 21, 2022",
     "content": [
       "Added rarity border to inventory & equipped items.",
       "Minor UI fixes & optimization.",
@@ -46,7 +46,7 @@
   {
     "title": "Minor Patch",
     "version": "0.93s",
-    "date": "2022/04/17",
+    "date": "April 17, 2022",
     "content": [
       "Google Play Instant is now available to supported devices. Press Try Now to instantly jump into the free Trial Edition of The Viridian Obelisk."
     ],
