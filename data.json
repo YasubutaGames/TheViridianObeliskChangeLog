@@ -1,5 +1,25 @@
 [
    {
+    "title": "Content Patch",
+    "version": "0.113s",
+    "date": "May 8, 2022",
+    "content": [
+      "Added indicator for The Joy of Combat counter.",
+      "Added indicator for when Mana Blade is active.",
+      "Fixed a visual bug caused by Golden Spheres.",
+      "Added Heritage story characters. Interact with them throughout the game to learn additional lore & story.",
+      "Reduced gem/shard/metal reward for completing a dungeon.",
+      "Tuned Allegiance Dungeon encounters.",
+      "Darkened text backgrounds in order to increase readability of npc dialogues.",
+      "Challange Dungeon UI has been revamped.",
+      "Settings UI has been revamped. (Main Menu & Pause Menu)",
+      "Added vibration to certain in-game events. Can be turned on/off in the menu.",
+      "Tuned accessories. (Rings, Necklaces etc.) Note: This change only affect newly found items. Existing characters retain their unchanged items.",
+      "Upgrading an item will no longer incorrectly display the 'new' graphic."
+    ],
+    "image": ["./PatchImg.jpeg"]
+  },
+   {
     "title": "Minor Patch",
     "version": "0.111s",
     "date": "May 2, 2022",
@@ -9,7 +29,7 @@
       "Added a small indicator for when an Absorb effect is active on your character.",
       "Fixed a bug where exiting the game while on the 'You are dead.'-screen caused the player to load in with 0 health."
     ],
-    "image": ["./111sImg.jpeg"]
+    "image": []
   },
   {
     "title": "Minor Patch",
@@ -22,7 +42,7 @@
       "Fixed a bug where Magic Reflection didn't function properly.",
       "Fixed a bug where item bonuses (Smite, Poison etc.) would persist after unequipping the item with said bonus."
     ],
-    "image": ["./108sImg.jpeg"]
+    "image": []
   },
   {
     "title": "Minor Patch",
