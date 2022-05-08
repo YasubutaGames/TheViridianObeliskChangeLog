@@ -1,7 +1,7 @@
 [
    {
     "title": "Content Patch",
-    "version": "0.114s",
+    "version": "0.115s",
     "date": "May 8, 2022",
     "content": [
       "Added indicator for The Joy of Combat counter.",
@@ -15,7 +15,8 @@
       "Settings UI has been revamped. (Main Menu & Pause Menu)",
       "Added vibration to certain in-game events. Can be turned on/off in the menu.",
       "Tuned accessories. (Rings, Necklaces etc.) Note: This change only affect newly found items. Existing characters retain their unchanged items.",
-      "Upgrading an item will no longer incorrectly display the 'new' graphic."
+      "Upgrading an item will no longer incorrectly display the 'new' graphic.",
+      "Item drop rate buffs (Lucky Star, Good Dog, Gone Fishing) has been altered to also increase Shard acquisition."
     ],
     "image": ["./PatchImg.jpeg"]
   },
