@@ -1,5 +1,19 @@
 [
    {
+    "title": "Minor Patch",
+    "version": "0.116s",
+    "date": "May 15, 2022",
+    "content": [
+      "On the You Are Dead-screen, you'll now be given the option to revive at the last visited checkpoint. Requires a Smoldering Ember.",
+      "While resting at a checkpoint, you may tap the campfire to receive a Smoldering Ember. This action can be performed once per dungeon.",
+      "Added a 'Continue' option in the dungeons menu.",
+      "Dagger attack damage values have been slightly reduced.",
+      "Fixed a bug where, when reaching a checkpoint in the final dungeon, the auto-go-next feature wasn't functioning properly.",
+      "Fixed a bug where Heritage npc quests didn't progress properly."
+    ],
+    "image": ["./PatchImg.jpeg"]
+  },
+  {
     "title": "Content Patch",
     "version": "0.115s",
     "date": "May 8, 2022",
@@ -18,9 +32,9 @@
       "Upgrading an item will no longer incorrectly display the 'new' graphic.",
       "Item drop rate buffs (Lucky Star, Good Dog, Gone Fishing) has been altered to also increase Shard acquisition."
     ],
-    "image": ["./PatchImg.jpeg"]
+    "image": []
   },
-   {
+  {
     "title": "Minor Patch",
     "version": "0.111s",
     "date": "May 2, 2022",
