@@ -9,7 +9,7 @@
       "Added a 'Continue' option in the dungeons menu.",
       "Dagger attack damage values have been slightly reduced.",
       "Fixed a bug where, when reaching a checkpoint in the final dungeon, the auto-go-next feature wasn't functioning properly.",
-      "Fixed a bug where Heritage npc quests didn't progress properly.",
+      "Fixed a bug where Heritage npc encounters didn't progress properly.",
       "Fixed a bug where Allegiance npc encounters didn't progress properly.",
       "Slightly increased drop rate of Magic Gem/Metal in low level monsters."
     ],
