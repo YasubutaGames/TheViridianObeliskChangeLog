@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.122s",
+    "version": "0.123s",
     "date": "May 14, 2022",
     "content": [
       "On the You Are Dead-screen, you'll now be given the option to revive at the last visited checkpoint. Requires a Smoldering Ember.",
