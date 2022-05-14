@@ -13,7 +13,7 @@
       "Fixed a bug where Allegiance npc encounters didn't progress properly.",
       "Slightly increased drop rate of Magic Gem/Metal in low level monsters."
     ],
-    "image": ["./PatchImg.jpeg"]
+    "image": ["./patchImg.png"]
   },
   {
     "title": "Content Patch",
