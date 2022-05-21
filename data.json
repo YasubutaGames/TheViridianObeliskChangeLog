@@ -1,6 +1,21 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.132s",
+    "date": "May 22, 2022",
+    "content": [
+      "Added storyline for Kiyo the Old.",
+      "Added Troll King music.",
+      "Added Touch of Moon Grass buff.",
+      "Tuned health regen while resting.",
+      "Added storyline for Myra the Wolf.",
+      "Added unique animations for the following spells: True Strike, Savage Slash, Minor Arcane Missile.",
+      "Fixed a bug where certain spells didn't interact correctly with the Magic Affinity buff."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.130s",
     "date": "May 14, 2022",
     "content": [
@@ -13,7 +28,7 @@
       "Fixed a bug where Allegiance npc encounters didn't progress properly.",
       "Slightly increased drop rate of Magic Gem/Metal in low level monsters."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
   },
   {
     "title": "Content Patch",
