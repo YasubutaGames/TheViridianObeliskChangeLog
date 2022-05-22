@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.133s",
+    "version": "0.134s",
     "date": "May 22, 2022",
     "content": [
       "Added storyline for Kiyo the Old.",
@@ -12,7 +12,8 @@
       "Added unique animations for the following spells: True Strike, Savage Slash, Minor Arcane Missile.",
       "Fixed a bug where certain spells didn't interact correctly with the Magic Affinity buff.",
       "Fixed a bug where the Mana Surge passive didn't function correctly.",
-      "New Flame Imp attack animation."
+      "New Flame Imp attack animation.",
+      "Slightly altered Hernan the Explorer's questline."
     ],
     "image": ["./patchImg.png"]
    },
