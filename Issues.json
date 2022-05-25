@@ -9,21 +9,21 @@
    {
       "isActive":true,
       "type":"Bug",
-      "severity":"Mid",
+      "severity":0,
       "description":"Test1",
       "date":"May 25, 2022"
    },
    {
       "isActive":false,
       "type":"Bug",
-      "severity":"Mid",
+      "severity":1,
       "description":"Test2",
       "date":"May 25, 2022"
    },
    {
       "isActive":true,
       "type":"Bug",
-      "severity":"Mid",
+      "severity":2,
       "description":"Test3",
       "date":"May 25, 2022"
    }
