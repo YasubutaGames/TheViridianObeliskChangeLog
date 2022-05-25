@@ -1,8 +1,8 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.13Xs",
-    "date": "May 2X, 2022",
+    "version": "0.136s",
+    "date": "May 26, 2022",
     "content": [
       "Optimized inventory performance.",
       "Added unique animations for the following spells: Ice Needle, Firepebble, Burning Blade, Icicle, Fireball, Arcanic Fireball.",
@@ -10,7 +10,9 @@
       "The effect of the following passives will now be displayed together with other buffs; Momentum, Guiding Light, Light Foot, Mana Surge, Last Resort, Endless Rage, Third Time's the Charm, Golden Spheres, Arcanic Execution, Last Hit, From Mana Life, Holy Blade, The Joy of Combat, Mana Blade, Radiance, Blood Duel, Pursuit of Knowledge, Grace of the Gods, Spoils of War, Keen Eye, Bright Soul.",
       "Reduced movement speed increase from Light Foot passive.",
       "Fixed a bug where the absorption gained from Holy Blade didn't calculate properly while wielding a two-handed weapon.",
-      "Tuned Spell Scroll drop rates."
+      "Tuned Spell Scroll drop rates.",
+      "New Smite icon.",
+      "New Blood Duel icon."
     ],
     "image": ["./patchImg.png"]
    },
