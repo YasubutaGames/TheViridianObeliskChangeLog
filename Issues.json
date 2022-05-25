@@ -1,7 +1,7 @@
 [
    {
       "isActive":true,
-      "type":"Bug",
+      "type":"Bug/Exploitable",
       "severity":"Mid",
       "description":"Cooking can be performed infinitely without ingredients.",
       "date":"May 25, 2022"
