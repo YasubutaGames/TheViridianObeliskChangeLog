@@ -5,26 +5,5 @@
       "severity":1,
       "description":"Cooking can be performed infinitely without ingredients.",
       "date":"May 25, 2022"
-   },
-   {
-      "isActive":true,
-      "type":"Bug",
-      "severity":0,
-      "description":"Test1",
-      "date":"May 25, 2022"
-   },
-   {
-      "isActive":false,
-      "type":"Bug",
-      "severity":1,
-      "description":"Test2",
-      "date":"May 25, 2022"
-   },
-   {
-      "isActive":true,
-      "type":"Bug",
-      "severity":2,
-      "description":"Test3",
-      "date":"May 25, 2022"
    }
 ]
