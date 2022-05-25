@@ -5,5 +5,26 @@
       "severity":"Mid",
       "description":"Infinite cooking.",
       "date":"May 25, 2022"
-   }
+   },
+   {
+      "isActive":true,
+      "type":"Bug",
+      "severity":"Mid",
+      "description":"Test1",
+      "date":"May 25, 2022"
+   },
+   {
+      "isActive":false,
+      "type":"Bug",
+      "severity":"Mid",
+      "description":"Test2",
+      "date":"May 25, 2022"
+   },
+   {
+      "isActive":true,
+      "type":"Bug",
+      "severity":"Mid",
+      "description":"Test3",
+      "date":"May 25, 2022"
+   },
 ]
