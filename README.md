@@ -1,3 +1,7 @@
-# The Viridian Obelisk: Change Log
+# The Viridian Obelisk: Data
 
-json data for https://yasubutagames.xyz/#ChangeLog
+## ChangeLog.json
+Data for https://yasubutagames.xyz/#ChangeLog
+
+## Issues.json
+Data for https://yasubutagames.xyz/#Status
