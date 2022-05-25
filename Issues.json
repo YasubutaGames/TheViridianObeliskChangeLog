@@ -1,1 +1,8 @@
-[]
+[
+   {
+      "isActive":true,
+      "type":"bug",
+      "severity":"mid",
+      "description":"Infinite cooking."
+   }
+]
