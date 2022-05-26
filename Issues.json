@@ -1,6 +1,14 @@
 [
    {
-      "isActive":true,
+      "isActive":false,
+      "version":"0.141s",
+      "date":"May 26, 2022",
+      "type":"Bug",
+      "severity":2,
+      "description":"Infinite NPC item rewards."
+   },
+   {
+      "isActive":false,
       "version":"0.141s",
       "date":"May 26, 2022",
       "type":"Bug",
