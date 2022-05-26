@@ -1,6 +1,14 @@
 [
    {
       "isActive":true,
+      "version":"0.141s",
+      "date":"May 26, 2022",
+      "type":"Bug",
+      "severity":0,
+      "description":"Visual bug in inventory after claiming Tome reward."
+   },
+   {
+      "isActive":false,
       "version":"0.134s",
       "date":"May 25, 2022",
       "type":"Bug",
