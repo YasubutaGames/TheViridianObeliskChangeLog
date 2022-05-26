@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.138s",
+    "version": "0.139s",
     "date": "May 26, 2022",
     "content": [
       "Optimized inventory performance.",
@@ -12,7 +12,8 @@
       "Fixed a bug where the absorption gained from Holy Blade didn't calculate properly while wielding a two-handed weapon.",
       "Tuned Spell Scroll drop rates.",
       "New Smite icon.",
-      "New Blood Duel icon."
+      "New Blood Duel icon.",
+      "When nearby a campsite npc, you may now tap to directly initiate conversation. Instead of going through the menu."
     ],
     "image": ["./patchImg.png"]
    },
