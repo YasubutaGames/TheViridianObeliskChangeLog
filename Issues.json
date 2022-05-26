@@ -1,5 +1,13 @@
 [
    {
+      "isActive":true,
+      "version":"0.142s",
+      "date":"May 27, 2022",
+      "type":"Bug",
+      "severity":0,
+      "description":"Magnus' Steel Cuirass is mislabeled as Epic."
+   },
+   {
       "isActive":false,
       "version":"0.141s",
       "date":"May 26, 2022",
