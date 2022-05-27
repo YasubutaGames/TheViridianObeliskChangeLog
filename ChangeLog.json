@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.143s",
+    "date": "May 27, 2022",
+    "content": [
+      "Tuned Blood Duel. New values: +1 weapon damage per stack, max 10 stacks.",
+      "Fixed a inventory visual bug related to Tomes.",
+      "Added a Resource (Metal/Gems/Shards) graphic to Smith/Wizard upgrade screens.",
+      "Fixed label on Magnus' Steel Cuirass; Epic -> Rare"
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.142s",
     "date": "May 26, 2022",
     "content": [
@@ -15,7 +27,7 @@
       "New Blood Duel icon.",
       "When nearby a campsite npc, you may now tap to directly initiate conversation. Instead of going through the menu."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
