@@ -5,7 +5,7 @@
       "date":"May 29, 2022",
       "type":"Bug",
       "severity":0,
-      "description":"If you have 0 metal/gems, the resource counter on the upgrade screens will be blank."
+      "description":"If you have 0 metal/gems, the resource counter on the upgrade screens is blank."
    },
    {
       "isActive":false,
