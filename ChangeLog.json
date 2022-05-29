@@ -1,6 +1,19 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.147s",
+    "date": "May 29, 2022",
+    "content": [
+      "Early game item upgrades have received a slight potency increase.",
+      "Power up spells such as Light Infusion, Warrior Mindset, etc. will now be displayed as a buff for its active duration.",
+      "Fixed a bug where Light Infusion's healing values weren't displayed correctly.",
+      "The improvement from upgrading spells/items will now be displayed before upgrading.",
+      "Fixed inconsistencies in the UI (font size, position, etc.)"
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.144s",
     "date": "May 27, 2022",
     "content": [
@@ -9,7 +22,7 @@
       "Added a Resource (Metal/Gems/Shards) graphic to Smith/Wizard upgrade screens.",
       "Fixed label on Magnus' Steel Cuirass; Epic -> Rare"
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
