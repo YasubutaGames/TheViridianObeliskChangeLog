@@ -1,8 +1,8 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.150s",
-    "date": "May 29, 2022",
+    "version": "0.151s",
+    "date": "May 31, 2022",
     "content": [
       "Early game item upgrades have received a slight potency increase.",
       "Power up spells such as Light Infusion, Warrior Mindset, etc. will now be displayed as a buff for its active duration.",
