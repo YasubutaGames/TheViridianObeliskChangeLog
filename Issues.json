@@ -1,5 +1,13 @@
 [
    {
+      "isActive":true,
+      "version":"0.152s",
+      "date":"May 31, 2022",
+      "type":"Visual Bug",
+      "severity":0,
+      "description":"Casting a spell with a duration (Light Infusion etc.) while said spell is already active, causes the buff icon to be removed prematurely."
+   },
+   {
       "isActive":false,
       "version":"0.149s",
       "date":"May 29, 2022",
