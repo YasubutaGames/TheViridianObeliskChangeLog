@@ -1,6 +1,17 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.153s",
+    "date": "June 1, 2022",
+    "content": [
+      "New splash screen title graphic.",
+      "Fixed a bug where casting a spell with a duration (Light Infusion etc.) while said spell is already active, caused the buff icon to be removed prematurely.",
+      "Added a link to the 'Issues' section of our website on the Pause screen."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.152s",
     "date": "May 31, 2022",
     "content": [
@@ -11,7 +22,7 @@
       "Fixed inconsistencies in the UI (font size, position, etc.)",
       "Fixed a bug where interrupting the Star Gaze animation caused the UI to become unresponsive."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
