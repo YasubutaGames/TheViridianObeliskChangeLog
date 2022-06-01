@@ -8,7 +8,8 @@
       "Fixed a bug where casting a spell with a duration (Light Infusion etc.) while said spell is already active, caused the buff icon to be removed prematurely.",
       "Added a link to the 'Issues' section of our website on the Pause screen.",
       "A settings screen will now be shown the first time the game is launched.",
-      "Fixed an inventory bug that sometimes made it so that you couldn't view the details of certain items."
+      "Fixed an inventory bug that sometimes made it so that you couldn't view the details of certain items.",
+      "Fixed a bug where quickly exiting the Pause Menu right after switching the sound on/off would cause the sound to not switch properly."
     ],
     "image": ["./patchImg.png"]
    },
