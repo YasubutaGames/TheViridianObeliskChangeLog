@@ -1,12 +1,14 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.153s",
+    "version": "0.155s",
     "date": "June 1, 2022",
     "content": [
       "New splash screen title graphic.",
       "Fixed a bug where casting a spell with a duration (Light Infusion etc.) while said spell is already active, caused the buff icon to be removed prematurely.",
-      "Added a link to the 'Issues' section of our website on the Pause screen."
+      "Added a link to the 'Issues' section of our website on the Pause screen.",
+      "A settings screen will now be shown the first time the game is launched.",
+      "Fixed an inventory bug that sometimes made it so that you couldn't view the details of certain items."
     ],
     "image": ["./patchImg.png"]
    },
