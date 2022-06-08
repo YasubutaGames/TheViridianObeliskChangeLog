@@ -1,6 +1,25 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.182s",
+    "date": "June 8, 2022",
+    "content": [
+      "Summer has arrived!",
+      "Revamped the 'New Dungeon' unlock animation.",
+      "Revamped the 'New Menu Button' unlock animation.",
+      "In addition to the DPS, the SPD & DMG of weapons is now displayed on the Item Details screen.",
+      "Added a Save & Return to Main Menu button to the Pause screen. The Save & Exit button will now quit the game, instead of taking you back to the main menu.",
+      "Regarding Execute Rewards; If you're in a cleared dungeon & there is no manual input for 5 seconds, Shards will now be auto selected.",
+      "Added a marker to Equipment items that display whether said item is stronger/weaker than the currently equipped item.",
+      "Tuned enemy health for all dungeons.",
+      "Added buttons for easier movement around the camp.",
+      "Added additional information to the Extract Shards screen.",
+      "Tuned Metal/Shards/Gems rewards for completing dungeons."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.163s",
     "date": "June 1, 2022",
     "content": [
