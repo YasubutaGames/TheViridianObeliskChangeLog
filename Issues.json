@@ -1,6 +1,14 @@
 [
    {
       "isActive":true,
+      "version":"0.185s",
+      "date":"June 9, 2022",
+      "type":"Bug",
+      "severity":2,
+      "description":"Finding a Tome Page can cause the UI to freeze, necessitating a forced restart."
+   },
+   {
+      "isActive":false,
       "version":"0.152s",
       "date":"May 31, 2022",
       "type":"Visual Bug",
