@@ -30,7 +30,7 @@
       "Fixed an inventory bug that sometimes made it so that you couldn't view the details of certain items.",
       "Fixed a bug where quickly exiting the Pause Menu right after switching the sound on/off would cause the sound to not switch properly."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
