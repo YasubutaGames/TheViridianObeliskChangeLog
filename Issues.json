@@ -1,6 +1,14 @@
 [
    {
       "isActive":true,
+      "version":"0.186s",
+      "date":"June 12, 2022",
+      "type":"Bug",
+      "severity":1,
+      "description":"Last boss' attack speed is bugged."
+   },
+   {
+      "isActive":false,
       "version":"0.185s",
       "date":"June 9, 2022",
       "type":"Bug",
