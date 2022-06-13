@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.197s",
+    "version": "0.198s",
     "date": "June 13, 2022",
     "content": [
       "Tuned dodge chance gained from agility.",
@@ -9,7 +9,8 @@
       "Fixed a bug that caused the last boss' attack speed to be incorrect.",
       "Fixed a bug that caused Holy Sigil's heal to be lower than it should.",
       "Reworked lights with a focus on performance.",
-      "Minor graphical changes & improvements."
+      "Minor graphical changes & improvements.",
+      "Fixed a bug that sometimes caused the player to walk past enemies after interacting with a npc."
     ],
     "image": ["./patchImg.png"]
    },
