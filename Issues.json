@@ -5,6 +5,14 @@
       "date":"June 12, 2022",
       "type":"Bug",
       "severity":1,
+      "description":"Holy Sigil doesn't heal for the amount it should."
+   },
+   {
+      "isActive":true,
+      "version":"0.186s",
+      "date":"June 12, 2022",
+      "type":"Bug",
+      "severity":1,
       "description":"Last boss' attack speed is bugged."
    },
    {
