@@ -1,6 +1,14 @@
 [
    {
       "isActive":true,
+      "version":"0.197s",
+      "date":"June 13, 2022",
+      "type":"Bug",
+      "severity":0,
+      "description":"Some torches' visibility is flickering in/out."
+   },
+   {
+      "isActive":false,
       "version":"0.186s",
       "date":"June 12, 2022",
       "type":"Bug",
@@ -8,7 +16,7 @@
       "description":"Holy Sigil doesn't heal for the amount it should."
    },
    {
-      "isActive":true,
+      "isActive":false,
       "version":"0.186s",
       "date":"June 12, 2022",
       "type":"Bug",
