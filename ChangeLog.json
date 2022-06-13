@@ -9,7 +9,7 @@
       "Fixed a bug that caused the last boss' attack speed to be incorrect.",
       "Fixed a bug that caused Holy Sigil's heal to be lower than it should.",
       "Reworked lights with a focus on performance.",
-      "Minor graphical changes & improvements.",
+      "Minor graphical changes & improvements."
     ],
     "image": ["./patchImg.png"]
    },
