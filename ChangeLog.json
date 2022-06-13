@@ -1,5 +1,19 @@
 [
    {
+    "title": "Minor Patch / Optimization",
+    "version": "0.197s",
+    "date": "June 13, 2022",
+    "content": [
+      "Tuned dodge chance gained from agility.",
+      "Shield Absorb effects now reset after defeating an enemy.",
+      "Fixed a bug that caused the last boss' attack speed to be incorrect.",
+      "Fixed a bug that caused Holy Sigil's heal to be lower than it should.",
+      "Reworked lights with a focus on performance.",
+      "Minor graphical changes & improvements.",
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
     "title": "Minor Patch",
     "version": "0.186s",
     "date": "June 10, 2022",
@@ -16,7 +30,7 @@
       "Added additional information to the Extract Shards screen.",
       "Tuned Metal/Shards/Gems rewards for completing dungeons."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
