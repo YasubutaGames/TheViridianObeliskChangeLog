@@ -1,6 +1,20 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.210s",
+    "date": "June 19, 2022",
+    "content": [
+      "The 'Eat' button shown while resting is no longer clickable if you don't have any edible food in your inventory.",
+      "Added Goblob, a npc that you can give items you no longer have any use for.",
+      "Challenge Dungeons have undergone a lite-rework.",
+      "If you find a Spell Scroll, that scroll's spell can now be viewed in the Wizard's spellbook, even if the player hasn't learnt it yet.",
+      "Minor graphical tweaks & improvements.",
+      "Added Moon-Crazed Beast music."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.199s",
     "date": "June 13, 2022",
     "content": [
@@ -12,7 +26,7 @@
       "Minor graphical changes & improvements.",
       "Fixed a bug that sometimes caused the player to walk past enemies after interacting with a npc."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
