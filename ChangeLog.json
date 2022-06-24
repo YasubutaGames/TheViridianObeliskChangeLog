@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.212s",
+    "date": "June 24, 2022",
+    "content": [
+      "Added unique animations to the following spells: Barrier of Light, Holy Sigil, Touch of Light, Arcane Orb, Arcane Barrage, Magi Intus, Arcane Missile, Frozen Exterior, Frozen Blade, Frozen Missile, Light Infusion, Inner Flame, Coat of Iron, Heightened Senses, Exploit Weakspot, Warrior Mindset.",
+      "Added Demonic Legate music.",
+      "Added Goblin Overseer music.",
+      "Added Fat Imp music."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.210s",
     "date": "June 19, 2022",
     "content": [
@@ -11,7 +23,7 @@
       "Minor graphical tweaks & improvements.",
       "Added Moon-Crazed Beast music."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
