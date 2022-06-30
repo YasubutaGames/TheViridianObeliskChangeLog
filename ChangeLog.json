@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.216s",
+    "date": "June 30, 2022",
+    "content": [
+      "New item: Idol of Amelioration. Use to permanently lower the attribute requirements of items and spell scrolls. This item is given as a reward for reaching grade A in a Challenge Dungeon.",
+      "The Viridian Greatsword can now be used if you meet the attribute requirements OR you've reached level 100.",
+      "Community Discord Server is now live. To join, tap the Discord button found in the Pause menu in-game, or use this link: https://discord.gg/hjXDvJ73ea",
+      "Improved Challenge Dungeon UI and added further information on first entry."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.212s",
     "date": "June 24, 2022",
     "content": [
@@ -9,7 +21,7 @@
       "Added Goblin Overseer music.",
       "Added Fat Imp music."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
