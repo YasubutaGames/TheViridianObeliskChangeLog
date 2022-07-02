@@ -1,5 +1,13 @@
 [
    {
+      "isActive":true,
+      "version":"0.217s",
+      "date":"July 2, 2022",
+      "type":"Bug",
+      "severity":1,
+      "description":"Damage dealt with Emerald Dagger/Sword doesn't count towards the 'Damage Dealer' bounty."
+   },
+   {
       "isActive":false,
       "version":"0.197s",
       "date":"June 13, 2022",
