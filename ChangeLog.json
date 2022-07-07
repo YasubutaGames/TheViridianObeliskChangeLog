@@ -1,6 +1,26 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.233s",
+    "date": "July 7, 2022",
+    "content": [
+      "Added additional information to 'Magic' weapons.",
+      "Fixed a bug where 'Magic' weapons didn't properly trigger certain bounty progressions.",
+      "The amount of Depleted Runes you're carrying is now properly displayed in your inventory.",
+      "The last boss will now grow stronger with each consecutive kill. You can track the amount of kills at your 'Stats' screen.",
+      "You can now toggle the display of your HP/MP by double tapping your HP/MP bars.",
+      "Bounties should now be tracked and updated properly.",
+      "The 'Healer' bounty can no longer be completed by eating while at full HP.",
+      "'Light Infusion' healing will now count towards the 'Healer' bounty.",
+      "Fixed a bug where buffs could sometimes not be tapped.",
+      "Fixed a bug where 'Third Time's the Charm' didn't reset when leaving a dungeon.",
+      "Tuned mana gained from attacks.",
+      "Minor UI changes and fixes."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.217s",
     "date": "June 30, 2022",
     "content": [
@@ -9,7 +29,7 @@
       "Community Discord Server is now live. To join, tap the Discord button found in the Pause menu in-game, or use this link: https://discord.gg/hjXDvJ73ea",
       "Improved Challenge Dungeon UI and added further information on first entry."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
