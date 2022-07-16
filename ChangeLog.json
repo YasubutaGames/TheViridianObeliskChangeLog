@@ -1,6 +1,24 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.245s",
+    "date": "July 17, 2022",
+    "content": [
+      "Decreased the duration of before/after combat animations.",
+      "Tuned Light Infusion.",
+      "Tuned Food buffs. (10/25/50% -> 10/20/30%)",
+      "The screen should no longer turn off due to inactivity while in-game.",
+      "New Item: Trinket of Regret - Can be used to redistribute your attributes in exchange for Viridium.",
+      "New Dungeon: Halls of Eternity - Endless dungeon, sacrifice Viridium to enter.",
+      "Fixed a bug that sometimes caused the first dungeons quest status to be stuck at 3/4.",
+      "Tuned late game enemy stats.",
+      "New Passive: Open Wound.",
+      "Minor UI & graphical fixes."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.234s",
     "date": "July 7, 2022",
     "content": [
@@ -17,7 +35,7 @@
       "Tuned mana gained from attacks.",
       "Minor UI changes and fixes."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
