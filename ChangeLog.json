@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.255s",
+    "version": "0.256s",
     "date": "July 17, 2022",
     "content": [
       "Decreased the duration of before/after combat animations.",
