@@ -1,7 +1,7 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.274s",
+    "version": "0.275s",
     "date": "July 26, 2022",
     "content": [
       "Added bounty progress and status to the dungeon map.",
