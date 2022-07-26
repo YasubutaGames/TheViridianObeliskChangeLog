@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.274s",
+    "date": "July 26, 2022",
+    "content": [
+      "Added bounty progress and status to the dungeon map.",
+      "Bounty screen UI revamp.",
+      "Added a Leaderboard to the Halls of Eternity dungeon.",
+      "New item: Trembling Crystal. Can be used to speed up time while in a cleared dungeon."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.259s",
     "date": "July 17, 2022",
     "content": [
@@ -15,7 +27,7 @@
       "New Passive: Open Wound.",
       "Minor UI & graphical fixes."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
