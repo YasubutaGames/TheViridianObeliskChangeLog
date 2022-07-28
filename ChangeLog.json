@@ -1,13 +1,14 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.275s",
+    "version": "0.280s",
     "date": "July 26, 2022",
     "content": [
       "Added bounty progress and status to the dungeon map.",
       "Bounty screen UI revamp.",
       "Added a Leaderboard to the Halls of Eternity dungeon.",
-      "New item: Trembling Crystal. Can be used to speed up time while in a cleared dungeon."
+      "New item: Trembling Crystal. Can be used to speed up time while in a cleared dungeon.",
+      "Fixed a bug that caused the Lucidity buff to decrease maximum mana by too much."
     ],
     "image": ["./patchImg.png"]
    },
