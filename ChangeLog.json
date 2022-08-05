@@ -1,6 +1,21 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.288s",
+    "date": "August 5, 2022",
+    "content": [
+      "Separated the options for enabling/disabling music and sound.",
+      "Added the option to Extract all items of a certain rarity.",
+      "Added an option to use multiple Trembling Crystals. Each crystal used further increases the speed.",
+      "New item: Mind Soothing Potion. Drink before entering a dungeon to automatically repeat the dungeon upon completion.",
+      "Your current score is now shown while in the Halls of Eternity.",
+      "Quest NPCs' speech bubbles now have a new icon if there is unread dialogue available.",
+      "Toggling show/hide for your HP/MP bar values is now saved between sessions."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.280s",
     "date": "July 26, 2022",
     "content": [
@@ -10,7 +25,7 @@
       "New item: Trembling Crystal. Can be used to speed up time while in a cleared dungeon.",
       "Fixed a bug that caused the Lucidity buff to decrease maximum mana by too much."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
