@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.406s",
+    "date": "August 14, 2022",
+    "content": [
+      "Minor graphical revamp of the main in-game menu.",
+      "You may now 'Favorite' items. Your favorite items do not show up in the Extract/Scrap menus.",
+      "Updated the 'Locked!' screen. In addition to the already displayed information, it now also displays your current loadout with some additional stats.",
+      "Updated the faction level up screen. The '+' is now greyed out after you've reached max level."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.288s",
     "date": "August 5, 2022",
     "content": [
@@ -12,7 +24,7 @@
       "Quest NPCs' speech bubbles now have a new icon if there is unread dialogue available.",
       "Toggling show/hide for your HP/MP bar values is now saved between sessions."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
