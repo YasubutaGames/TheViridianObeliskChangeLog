@@ -1,13 +1,15 @@
 [
    {
     "title": "Minor Patch",
-    "version": "0.411s",
+    "version": "0.412s",
     "date": "August 14, 2022",
     "content": [
       "Minor graphical revamp of the main in-game menu.",
       "You may now 'Favorite' items. Your favorite items do not show up in the Extract/Scrap menus.",
       "Updated the 'Locked!' screen. In addition to the already displayed information, it now also displays your current loadout with some additional stats.",
-      "Updated the faction level up screen. The '+' is now greyed out after you've reached max level."
+      "Updated the faction level up screen. The '+' is now greyed out after you've reached max level.",
+      "All bosses are now guaranteed to drop a Trembling Crystal & a Mind Soothing Potion.",
+      "The Halls of Eternity leaderboard should now load properly on the first try."
     ],
     "image": ["./patchImg.png"]
    },
