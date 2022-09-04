@@ -1,6 +1,18 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.419s",
+    "date": "September 4, 2022",
+    "content": [
+      "Season 1 of Halls of Eternity is now complete! Rewards will be given to those at the top of the leaderboard when you log in. Stay tuned for information on Season 2!",
+      "Stuns have been tuned.",
+      "Achievement soft launch! Access through the 'Stats' menu. More achievements will be added in the future. Achievements are device-bound, not character-bound!",
+      "Fixed a bug that caused Mind Soothing Potion to not display correctly in your inventory."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.415s",
     "date": "August 16, 2022",
     "content": [
@@ -12,7 +24,7 @@
       "The Halls of Eternity leaderboard should now load properly on the first try.",
       "Various bug fixes."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
