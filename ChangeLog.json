@@ -1,6 +1,17 @@
 [
    {
     "title": "Minor Patch",
+    "version": "0.424s",
+    "date": "October 23, 2022",
+    "content": [
+      "Autumn has arrived in the camp!",
+      "Misc. UI & performance improvements.",
+      "Fixed a bug that sometimes caused dungeons to not reach the 'Cleared' status."
+    ],
+    "image": ["./patchImg.png"]
+   },
+   {
+    "title": "Minor Patch",
     "version": "0.419s",
     "date": "September 4, 2022",
     "content": [
@@ -9,7 +20,7 @@
       "Achievement soft launch! Access through the 'Stats' menu. More achievements will be added in the future. Achievements are device-bound, not character-bound!",
       "Fixed a bug that caused Mind Soothing Potion to not display correctly in your inventory."
     ],
-    "image": ["./patchImg.png"]
+    "image": []
    },
    {
     "title": "Minor Patch",
